@@ -2,8 +2,7 @@
 # 🚗 Vehicle Classification using CNN Model
 
 ## 📌 Project Overview
-This project implements a **Convolutional Neural Network (CNN)** to automatically classify images of vehicles into three categories: **Cars, Trains, and Planes**. The system can help in **traffic management, surveillance, and autonomous transportation systems** by identifying vehicle types from images.
-
+This project implements a **Convolutional Neural Network (CNN)** to automatically classify images of vehicles into three categories: **Cars, Trains, and Planes**.
 ---
 
 ## 📂 Dataset
